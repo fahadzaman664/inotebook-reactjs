@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inotebook-reactjs/static/css/main.bcf7fef1.css",
+    "main.js": "/inotebook-reactjs/static/js/main.a09d9ee9.js",
+    "index.html": "/inotebook-reactjs/index.html",
+    "main.bcf7fef1.css.map": "/inotebook-reactjs/static/css/main.bcf7fef1.css.map",
+    "main.a09d9ee9.js.map": "/inotebook-reactjs/static/js/main.a09d9ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf7fef1.css",
+    "static/js/main.a09d9ee9.js"
+  ]
+}
