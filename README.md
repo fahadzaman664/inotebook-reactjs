@@ -1,4 +1,5 @@
 # inotebook-reactjs
+# by fahad zaman
 iNotebook is a sleek and intuitive note-taking application built with React.js and Node.js. It enables users to create, read, update, and delete notes with ease.
 
 Features:
